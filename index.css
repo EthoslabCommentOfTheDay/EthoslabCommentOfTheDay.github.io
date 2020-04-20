@@ -137,12 +137,11 @@ img{
   font-size: 3vw;
   max-width: 25vw;
   border: 0px transparent;
-  margin: auto;
   left: 3vw;
-  top: 15vw;
-  position: absolute; 
+  top: 0vw;
+  position: relative; 
   z-index: 2;
-  height: 5vw;
+  
 }
 .searchResult{
 	border: 1px solid black;
@@ -291,7 +290,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 2em 0;
-  line-height: 1.5em;
+  line-height:3vw;
   margin:0px;
 }
 .page {
@@ -325,4 +324,13 @@ body {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+@media screen and (min-width: 800px) {
+  br{
+	display: block; /* makes it have a width */
+	content: ""; /* clears default height */
+	margin-top: 0.3vw; /* change this to whatever height you want it */
+  }
+ 
 }
