@@ -8,7 +8,7 @@ const options = {
   includeMatches: true,
   includeScore: true,
   useExtendedSearch: false,
-  minMatchCharLength: 2,
+  minMatchCharLength: 5,
   shouldSort: true,
   threshold: 0.6,
   location: 0,
@@ -50,7 +50,6 @@ pgEnd.classList.add("page")
 book.appendChild(pgEnd)
 
 //create search
-console.log(index)
 const fuse = new Fuse(index, options)
 
 
@@ -101,10 +100,7 @@ document.addEventListener('DOMContentLoaded', function(){
           }
       }
       if(window.location.search!=""){
-	      console.log(parseInt(window.location.search.substr(1).split("=")[1]))
-	      
 	      let ept = 0;
-	      console.log(window.location.search.substr(1).split("=")[0])
 	      switch(window.location.search.substr(1).split("=")[0]){
 			case "page":
 				ept = parseInt(window.location.search.substr(1).split("=")[1])
@@ -118,9 +114,10 @@ document.addEventListener('DOMContentLoaded', function(){
 			pages[i].classList.add("flipped")
 		}
       }
-      document.getElementsByClassName("searchBox")[0].addEventListener('keydown', (e)=>{
+      
+	
+	document.getElementsByClassName("searchBox")[0].addEventListener('keydown', (e)=>{
 		resList = fuse.search(document.getElementsByClassName("searchBox")[0].value)
-		console.log(resList)
 		let i = 0;
 		let end =  0;
 		if (resList.length >0){
