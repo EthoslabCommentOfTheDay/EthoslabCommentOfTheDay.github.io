@@ -1,0 +1,328 @@
+.book {
+  transition: opacity 0.4s 0.2s;
+}
+p{
+  margin: 3vw;
+  margin-bottom: 3vw!important;
+  text-align: left;
+  font-size: 2.5vw;
+  font-size: 1.5vw;
+  color: #000000;
+  
+}
+a{
+	text-decoration: none;
+}
+#footer{
+	background: rgba(227, 223, 216, 0.5);
+	padding: 0 1vw 0 1vw;
+	margin: 0 0 0.5vw 0;
+}
+#header:hover{
+	z-index:2;
+}
+h2{
+	position:relative;
+  height: 2vw;
+  margin-top: 2vw;
+  text-align: left;
+  font-size: 2.8vw;
+  opacity: 0.65;
+  color: #000000;
+  left:-1vw;
+}
+h1{
+  height: 2vw;
+  text-align: center;
+  font-size: 2.8vw;
+  color: black;
+}
+br{
+  display: block; /* makes it have a width */
+  content: ""; /* clears default height */
+  margin-top: 1vw; /* change this to whatever height you want it */
+}
+.ctct br{
+	display: block; /* makes it have a width */
+  content: ""; /* clears default height */
+  margin-top: 0.3vw; /* change this to whatever height you want it */
+}
+img{
+  margin: 10%;
+  opacity: 0.4;
+}
+.frontCover{
+  width: 30vw!important;
+  height: 44vw!important;
+  top: 0!important;
+  background-image: url('Assets/fCover_title.png')!important;
+  float:left;
+}
+.pinfo{
+  position: absolute;
+  text-align: justify;
+  left: 3vw;
+  top: 3vw;
+  font-size: 2.5vw;
+  font-size: 1.5vw;
+  color: #000000;
+  max-width: 24.5vw;
+  
+}
+.info{
+  text-align: justify;
+  background: rgba(227, 223, 216, 0.25);
+  border-radius: 1vw;
+  position: absolute; 
+  left: 20.5vw; 
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 29.5vw; 
+  height: 41vw; 
+  font-size: 1.5vw;
+  line-height: 1.6;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
+.navigation{
+  text-align: left;
+  background: rgba(227, 223, 216, 0.25);
+  border-radius: 1vw;
+  position: absolute; 
+  right: 2vw; 
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+  width: 17vw;
+  max-width: 17vw; 
+  height: 41vw; 
+  font-size: 1.5vw;
+  line-height: 1.6;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+}
+.navpoint{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	width:100%;
+}
+.abtpoint{
+	text-align:center;
+	font-size: 1.3vw;
+	cursor: pointer;
+	width:100%;
+}
+.backCover{
+  width: 30vw!important;
+  height: 44vw!important;
+  top: 0!important;
+  background-image: url('Assets/bCover_notitle.png')!important;
+  float:left;
+}
+.searchPage{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+  
+}
+.searchBox{
+  outline: none;
+  background: transparent;
+  font-size: 3vw;
+  max-width: 25vw;
+  border: 0px transparent;
+  margin: auto;
+  left: 3vw;
+  top: 15vw;
+  position: absolute; 
+  z-index: 2;
+  height: 5vw;
+}
+.searchResult{
+	border: 1px solid black;
+	text-align: left;
+	display: block;
+	position: relative;
+	width: 85%;
+	padding: 1vw 1vw 1vw 1vw;
+	background: transparent;
+	margin: 1vw 0vw 1vw 0vw;
+	left: 2vw;
+	font-size: 1.5vw;
+	z-index:2;
+	cursor: pointer;
+}
+.searchButton{
+  position: absolute;
+  z-index: 2;
+  cursor: pointer;
+  outline: none;
+  border-radius: 1vw; 
+  bottom: 15vw;
+  left: 10vw;
+  justify-content: center;
+  padding: 1.5vw 2vw 1.5vw 2vw;
+  font-size: 2vw;
+  background: rgba(200, 140, 60, 0.5);
+  border: 1px solid rgb(121, 93, 17)
+}
+.searchResult:hover{
+  background: rgba(102, 65, 17, 0.5);
+}
+.page {
+  color: white;
+  width: 30vw;
+  height: 43.5vw;
+  background-color: #fff;
+  float: left;
+  margin-bottom: 0.5em;
+  overflow:hidden;
+  overflow:auto;
+}
+.page:nth-child(even) {
+  clear: both;
+}
+.book {
+  perspective: 250vw;
+}
+.book .pages {
+  width: 60vw;
+  height: 44vw;
+  position: relative;
+  transform: rotateX(12deg);
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  border-radius: 4px;
+}
+.book .page {
+  float: none;
+  clear: none;
+  margin: 0;
+  position: absolute;
+  top: 0.25vw;
+  width: 30vw;
+  height: 43.5vw;
+  transform-origin: 0 0;
+  transition: transform 1.4s;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  cursor: pointer;
+  user-select: none;
+}
+.book .page:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.7s;
+  z-index: 2;
+}
+.book .page:nth-child(odd) {
+  pointer-events: all;
+  transform: rotateY(0deg);
+  right: 0;
+  background-image: url('Assets/page_right_blank.png');
+  border-radius: 0 4px 4px 0;
+}
+.book .page:nth-child(odd):hover {
+  transform: rotateY(-15deg);
+}
+.book .page:nth-child(odd):before {
+  background: rgba(0, 0, 0, 0);
+}
+.book .page:nth-child(even) {
+  pointer-events: none;
+  transform: rotateY(180deg);
+  transform-origin: 100% 0;
+  left: 0;
+  border-radius: 4px 0 0 4px;
+  background-image: url('Assets/page_left_blank.png');
+}
+.book .page:nth-child(even):before {
+  background: rgba(0, 0, 0, 0.2);
+}
+.book .page.grabbing {
+  transition: none;
+}
+.book .page.flipped:nth-child(odd) {
+  pointer-events: none;
+  transform: rotateY(-180deg);
+}
+.book .page.flipped:nth-child(odd):before {
+  background: rgba(0, 0, 0, 0.2);
+}
+.book .page.flipped:nth-child(even) {
+  pointer-events: all;
+  transform: rotateY(0deg);
+}
+.book .page.flipped:nth-child(even):hover {
+  transform: rotateY(15deg);
+}
+.book .page.flipped:nth-child(even):before {
+  background: rgba(0, 0, 0, 0);
+}
+*,
+* :before,
+*:after {
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  
+}
+body {  
+  background: #e3dfd8;
+  /*background-image: url(https://i.pinimg.com/originals/d4/e3/32/d4e332ab13efbfb8525dbdf1eb2201bb.jpg)!important;*/
+  /*background-image: url(https://i.ytimg.com/vi/CmS9kTUbey8/maxresdefault.jpg)!important;*/
+  background-repeat: no-repeat;
+  background-size:cover;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 0;
+  line-height: 1.5em;
+  margin:0px;
+}
+.page {
+  color: transparent;
+  background: left top no-repeat;
+  background-size: cover;
+  
+}
+.page:nth-child(1) {
+  
+  background-size: cover;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:rgba(0,0,0,0);
+  
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.85);
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
