@@ -9,27 +9,27 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho I don't want to spoil the party but the doors in your village need to be exposed to sunlight in order to count as valid doors for villager \"breeding\" (which I assume you want to do to get the other types of villagers). Please just check the wiki before you continue with the village I'd hate to see you spend hours on making a village and then have it not work as you intended. If you already knew this then never mind but I'm a bit worried here. Please thumbs up so Etho can see!",
-				"qname":"cybernetic soldier",
-				"answer": "So cybernetic soldier posted that comment last episode now to address it I... I do know this somebody posted on the Minecraft reddit's a few weeks ago how this all works; about needing a sunlight, and it checks five blocks in front of the door and five blocks behind and determines if it's a house that way. So when I do the project I will have sunlight down in the cave. "
+				"qname": "cybernetic soldier",
+				"answer": "I do know this, somebody posted on the Minecraft reddits a few weeks ago how this all works; about needing sunlight, and how it checks five blocks in front of the door and five blocks behind and determines if it's a house that way. So when I do the project I will have sunlight down in the cave. "
 			},
 			{
 				"question": "Etho put snow blocks under the ice tray that way you won't break the floor when you harvest the ice.",
-				"qname":"robotkidXD",
-				"answer": "Thank you for the tip. Yeah when I built that I wasn't really planning on using it much maybe just once in a while, but it turns out I'm using it a lot now so I probably will do that. Snow has a nice benefit where efficiency enchantments don't break the snow quicker so that is why you want to use snow so I'll do that. "
+				"qname": "robotkidXD",
+				"answer": "Thank you for the tip. Yeah when I built that I wasn't really planning on using it much, maybe just once in a while, but it turns out I'm using it a lot now so I probably will do that. Snow has a nice benefit where efficiency enchantments don't break the snow quicker so that is why you want to use snow, so I'll do that. "
 			},
 			{
 				"question": "Hey Etho, new subscriber here! Why don't you upload 720p videos?",
-				"qname":"Alex",
+				"qname": "Alex",
 				"answer": "I do for tutorials pretty much always, but for everything else I don't. I've tried in the past but I've had problems: it takes too long- I only have 0.5 Mb/s upload speed which is terrible, so no plans on that until I get faster Internet (except for tutorials or anything else fancy) "
 			},
 			{
 				"question": "Etho, you should bring back the suicide booth from the old LP world because now that we have entered chests you can access your items from where you spawn and if you do it you could make it more sophisticated with the multiple choice type thing for how you died. For example if you press one button and walk into the suicide booth you get crushed or if you press a different button you did killed by lava. And that would make the suicide booth more like Futurama which is what inspired you the first time.",
-				"qname":"thelonewolf95",
+				"qname": "thelonewolf95",
 				"answer": "I missed the suicide booth. I would do it here, but really the nether portals are quick, it takes me like a minute to go from base to base now which is nothing to complain about. If I was to ever build something far, far away then we might bring that back."
 			},
 			{
 				"question": "Hey Etho, I found out there is more a more efficient way to place water for your sugarcane farm. You have to place one water block, then you go up two blocks and one left, there you place the next block. Another block you place up and two right from the first one. The fourth you place one down and two left from the first block. The last one you place two down and one right from the first one. After that, you can continue the pattern. Like this, you need less lilypads",
-				"qname":"CHguenstig",
+				"qname": "CHguenstig",
 				"answer": "Basically he's telling me there's a better way of placing the sugarcane in the water. At first I thought it was the same thing as I did, but I plotted it down on paper and it IS better, so thank you for that suggestion. I may try to modify what I've got already to be that pattern or anything I put in in future, I'll use you use this pattern here so thank you for that."
 			}
 		]
@@ -44,17 +44,17 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho your mob system is amazing! I built a mob system myself, but it's not working like yours :(. I have cleared like 3/4 of all of the caves. Maybe it's because I have a skeleton XP farm connected to it and it's an XP farm. If I turn it to drops only and the skeleton farm off (because I have a ton of bones and bows and arrows) it's still slow :(.",
-				"qname":"Minecrafting0",
+				"qname": "Minecrafting0",
 				"answer": "The skeleton farm shouldn't interfere unless you're using it, if it's not spawning skeletons it's not going to interfere at all. I will say this, the last little bit of lighting up the caves makes a huge difference, so finish it up. Do the last quarter and you will notice a big improvement on rates."
 			},
 			{
 				"question": "Etho, ice freezes faster if it's next to a block. That is why your ice tray freezes from the outside-in.",
-				"qname":"MangoMudkipz",
+				"qname": "MangoMudkipz",
 				"answer": "Yes indeed, there are quicker ways of harvesting ice or getting it to freeze just make sure it's next to a block. When I set that thing up though, it was meant to be something quick and effective which it is or at least I think it is. "
 			},
 			{
 				"question": "Etho, will you do more on the silverfish farm?",
-				"qname":"simonate100",
+				"qname": "simonate100",
 				"answer": "I don't really plan to do too much. That was one of those projects I'm pretty sure I found more interesting than everyone else and I did a little too much with it. People got bored, so I'm trying to avoid showing it too much now but what I've got planned yet is to: clean up down there and make everything connect together well, maybe improve my way of getting them to the surface and maybe add some extra tunnels for transporting them underground. That's about it. It's actually full right now ,I need to harvest them or move them."
 			}
 		]
@@ -69,22 +69,22 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "episode 151 is the ice biome portal.",
-				"qname":"Ninjanoob10",
+				"qname": "Ninjanoob10",
 				"answer": "Thank you for this. This is a response to last episode where I found a random portal in an ice biome and I was convinced I did not make it but apparently I did. I went and watched one I watched episode 151 and at the end of it I built it so I guess I just forgot. So it was me all along, I am the culprit "
 			},
 			{
 				"question": "Etho, could you do a tutorial on your man cave or is there a video or something on it?",
-				"qname":"TheGuyWhoGames100",
+				"qname": "TheGuyWhoGames100",
 				"answer": "There's a let's play on it! Watch from episode 104 to now. As far as the tutorial goes, there's basically three main rules I'm going by here: using grass for the floor, not using torches for lighting (that's the ultimate goal there's still some around which I have to deal with), and thirdly try to make everything I build go with the natural terrain without having to adjust it too much. so that's the rules to my man cave here. "
 			},
 			{
 				"question": "Etho, whenever you go into your inventory in the series, for some reason you never have armor.",
-				"qname":"Zeito Hylia",
+				"qname": "Zeito Hylia",
 				"answer": "AHA this is true for the most part, what I usually wear in the let's play is just diamond boots with feather falling. That's good enough for me. I very rarely died to mobs or anything in this game anymore, in single-player anyway, so to make it more challenging I just wear diamond boots (and I only wear diamond boots so I can ender pearl around quickly otherwise I would probably wear nothing)."
 			},
 			{
 				"question": "I think I enjoyed the silverfish farm the most out of every project you have done so far. I would really like to see you use them for mining in the future.",
-				"qname":"MaIoThree",
+				"qname": "MaIoThree",
 				"answer": "Maybe I'll try to get that going for next episode. Haul a bunch of them over. Like I said, they are ready for harvesting so it could be cool. I would like to see that too."
 			}
 		]
@@ -99,17 +99,17 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "hey Etho, will you be incorporating redstone into the village to keep with the Minecraft done technical idea for the let's play? That idea was what set you apart but will you be able to keep innovating as you were able to when the game was younger?",
-				"qname":"DoctorDuck77",
+				"qname": "DoctorDuck77",
 				"answer": "Yeah the plan is to incorporate redstone and interactive things like how we kind of played around with today. Now I know how to make stalls where I can force the villagers to do things. That's kind of what we were experimenting with today and I'm sure I'll come up with other ideas. "
 			},
 			{
 				"question": "I think that the ice theme is a bit risky because there's only two specific blocks for it; ice and snow. You'll have to use them with neutral blocks to make something interesting, Etho.",
-				"qname":"casperlag",
+				"qname": "casperlag",
 				"answer": "Yeah, I wasn't liking it too much either, it's pretty bland. What actually happened is that I just finished the dice tunnel on the minecraft server, and I was really excited because I liked how that looked, but on a large scale I don't know if I can make it make it cool. That's kind of the reason I want to change."
 			},
 			{
 				"question": "I still like the original block choice for the village. Stone brick, iron bars, lava. Like your Mindcrack blaze farm. That thing is the most epic-looking practical build I've yet seen in a let's play. I just think having a little piston door in the side of the man cave, which opens to a giant, deep, fiery pit full of your etho minions is supremely more epic than another snow build. Either way, I can't wait to see it, keep it up Etho, you are the greatest!",
-				"qname":"MagnusGreatestMagnus",
+				"qname": "MagnusGreatestMagnus",
 				"answer": "Thank you. Yeah I'm going to do some stuff in creative mode and we'll continue this when I figure out something I'm happy with. I don't know; this stuff we've done so far, it's like I put it down and then I want to change it because I'm not happy with it. I'll figure out something more definite for next time."
 			}
 		]
@@ -124,12 +124,12 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho, I really hope you read my comment. I was thinking about a style for your village, seeing as how you like green grass and such, maybe you could make a huge tree in the middle of the cave you dug out for them, with the branches kind of holding up the ceiling. You could have pumpkins hanging from the tree which would look natural-ish, and then you'd use leaves and other materials and grass blocks for the ground. The houses could also look like they are hanging maybe, with wood etc.",
-				"qname":"Watzitoya",
+				"qname": "Watzitoya",
 				"answer": "That is a pretty cool idea for the village and maybe I'll use it one day in the future, or somebody else will use it. You went on to say in another comment that it wouldn't really work here because of the dark green grass, but I could see you doing that in a village and it would be pretty cool, I think. "
 			},
 			{
 				"question": "Etho, you should make a villager fountain. That is to say, a fountain that villagers pop out of, after you trap them in your 'houses' and suck them underground.",
-				"qname":"docopoper",
+				"qname": "docopoper",
 				"answer": "That is a cool idea too because we could put a water fountain here. I know how to trap them underground once they go into the houses at night and then i'd have a day sensor that would trigger them all to pop up through the fountain. That could be cool, I might do that."
 			}
 		]
@@ -144,7 +144,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Possibly build a large chamber beneath the city filled with doors? They would be out of sight, but would still count as the door count, allowing for more villagers to be spawned without the nuisance of unsightly doors.",
-				"qname":"BIG7DMONEY",
+				"qname": "BIG7DMONEY",
 				"answer": "I think that's what I'm gonna do. I'm gonna have a few doors underground just to get the villager count up higher, but I do not want to do infinite villager breeders because I don't really like those. It'd be cool to have some underground and if I do the fountain idea, I'll make them come up during the day through the fountain."
 			}
 		]
@@ -159,7 +159,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho, what do you think of the new updates (1.3 and 1.4 snapshots)? Do you think it is too much? I would love to hear your opinion, thanks for the videos.",
-				"qname":"TheNytrex",
+				"qname": "TheNytrex",
 				"answer": "You're welcome. For the most part I really liked the snapshots and the 1.3 update. I loved the new features. What I would like them to focus on now, is to work at fixing the bugs that were introduced and also at optimizing the game although I am really excited about the 1.4 features - especially the item frames. I'm gonna use that in the storage room so that you can see what's in the chests from a distance. I think that's pretty cool, and there's a lot of other cool stuff but all in all I'm pretty happy with it. I just want them to focus on fixing bugs and stuff now. Yeah we're just gonna do one comment today, I will talk about one other thing real quick though, about comments and comment-etiquette. If you guys see something in the comments that is extremely rude or negative, or you know someone's just being a jerk, instead of replying to them just downvote their comment. If you reply to them it can cause these long comment chains to occur and it brings attention to it. It's best just to hide it if it's a really stupid comment. Just a reminder."
 			}
 		]
@@ -174,7 +174,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Hey Etho, just wondering how you feel about using the snapshots in your LP. I think that decoration items would work for you, like for arrows with the frames or with sorting. Hope you read this.",
-				"qname":"BeanxxBot",
+				"qname": "BeanxxBot",
 				"answer": "Yeah, you know what I've been really tempted to use the snapshots in the let's play before. I was avoiding it completely because I didn't want to spoil the patches, but you know what happened? I saw so many videos about the features and saw everybody doing stuff with the features that were coming with the snapshots, that by the time it actually came out like 6 months later, or whatever it was, it actually came to be thata lot of it was already spoiled. So yeah, I don't mind waiting a few weeks for a patch but if you gotta wait months and months and months, chances are a lot of it's gonna be wrecked anyway, so as long as the patch is not super buggy, I think I may consider doing it soon. One thing that worries me about that though is that some people may avoid watching my let's play because I could potentially be spoiling the patch or the snapshots for them. I don't know, it's a tough decision. I would like to, but there's pros and cons to it. I'm not sure what you guys would think of it in general, but yeah good question."
 			}
 		]
@@ -189,7 +189,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho, I have watched almost all of your videos and I have loved every single one of them. I have enjoyed watching you build the creative things you build. What I would like to know is... what is your favorite thing that you have ever built in Minecraft? Thanks and keep up the great work!",
-				"qname":"Travis Stuart",
+				"qname": "Travis Stuart",
 				"answer": "It's a hard decision, but I think I would go (if I had to name one thing) with the whole ice base thing from the old world, just because it was a collection of pretty much all my mob related knowledge in the game. I put a lot of thought into that thing. It's a shame and it wasn't able to fully complete it, but I did get a lot done and it was working really well so it was cool to see that. As far as from the viewers perspective, I think the best received thing I've ever built was general spazz's cannon in the 50k special. A lot of people seem to really like that. Also notable mentions are EATS road, the silverfish farm, and more recently, the sheep farm. I'm still pretty proud of that, even though it's not done. I don't know, there's a lot of things. The old storage room, even the design for this I'm pretty happy with this place here (the man cave). I don't know, there's a lot of things I'm pretty happy with. But yeah, it's a good question. Thank you very much for that, and for everybody's inputs."
 			}
 		]
@@ -203,7 +203,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho, when did you build the house on top of the mountain?",
-				"qname":"Amithrpz",
+				"qname": "Amithrpz",
 				"answer": "I don't really know what you're talking about, I've never built no house on no Mountain. You must be mistaken. Yeah, so sorry I couldn't answer your question."
 			}
 		]
@@ -217,12 +217,12 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "You need to show off your parkour skills Etho.",
-				"qname":"Epic5236",
+				"qname": "Epic5236",
 				"answer": "I don't have any parkour skills really. I think the only time I actually did anything considered parkour in this game is when I did vexes \"rage quit holidays\" and needless to say I haven't wanted to do any since."
 			},
 			{
 				"question": "Etho, I've been wanting to see your statistics lately. Will you show them to us or make a rule that you show your statistics every 50 or so episodes? Thanks for taking your time reading this. Lots of love from Bulgaria! <3",
-				"qname":"pazer40",
+				"qname": "pazer40",
 				"answer": "I'm constantly switching my jar file, and I don't properly backup my minecraft when I do that. I know how to, I just don't do it. But here you go, I don't know how accurate this is gonna be...[showing in-game statistics] yeah ooh I use lots of those. Again, I don't know how accurate this is. I know I've used or I've made more than that in general. Lots of sticks and at 18,400 I don't know seems a little bit low to me. 788 hmm yeah well that's what they are again I don't know how accurate they are but enjoy."
 			}
 		]
@@ -236,7 +236,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Hey Etho, I would just like to point out that your mediafire world download link is broken! I would love to check out the world and it's a shame that it doesn't work. Anyway, love the videos.",
-				"qname":"MrValderook",
+				"qname": "MrValderook",
 				"answer": "Thank you very much. I am going to try to put up another download in the description; a newer one. I was supposed to do that last episode but I forgot... The download is actually from just before I switched to this snapshot, so I hope you guys enjoy that. Mediafire keeps removing it for some reason. I don't know why or when that's going to happen again, but please be patient with that. The world downloads are getting quite big, close to 100 MB so I don't do them as often anymore, but yeah, I hope you enjoy it."
 			}
 		]
@@ -250,7 +250,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Hey Etho, can you explain the whole \"Turnel\" thing? Why do you say it funny? I presume it's some sort of joke that I missed right?",
-				"qname":"kipolpo",
+				"qname": "kipolpo",
 				"answer": "Yeah it's an inside joke. I'm trying to think of exactly how it happened, I think I was editing a kaizo cavern episode where he said it that day, and then later in the day I also recorded an LP episode where I was built in the silver fish farm tunnel and in honor of guude I named it's the Turnel. I didn't really hear anything from him about that I think he missed it, and then randomly like weeks later, months later, we were playing final fantasy and I said ternal again and guude just kind of freaked out and said 'WHEN DID I EVER SAY TURNEL' and it just made me laugh. So yeah, it's an inside joke."
 			}
 		]
@@ -264,7 +264,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Etho, zombie villagers either randomly spawn, or become infected by regular zombies. There are also baby zombies that are young forever, to get them, get a baby villagers infected. To get a villager infected, have a zombie kill it.",
-				"qname":"Dave97979",
+				"qname": "Dave97979",
 				"answer": "ah ha! Yeah the other episode when I found one I had no idea that they spawned randomly, the zombie villagers, I thought could only be created by getting infected. So that was a surprise to me! Just another joy of playing the snapshots without giving the spoilers. Turns out I think it's like a 10% or something chance that when a zombie spawns they can become a zombie villager. The other day I went out looking for him as I trying to repopulate that first village I found. I was going to cure him. I lured a zombie villager into one of the houses, blocked it off, and I was going to enter pearl out BUT he cornered me and killed me. When I came back to my stuff, since they despawn, he was gone because I was out of range. When I came back for my stuff, my armor, my enchanted armor including my feather falling IV boots, and also my sharpness IV sword was gone, because he picked it up and then he spawned, so I lost the ton of stuff from that which sucked."
 			}
 		]
@@ -278,7 +278,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Minecraft developers DO watch EthosLab. In snapshot 12w38a item frames no longer despawn when the player moves 20 blocks away. That is all.",
-				"qname":"BaconLettucePickles",
+				"qname": "BaconLettucePickles",
 				"answer": "That is not all. The reason I bring this one up today is because dinnerbone actually responded to this very subject today personally on the reddit. He said he has subscribed to me and does watch the occasional video, but as you can imagine he's a busy guy he doesn't have a whole lot of time to do things like that. With this thing specifically, he said he made that change before he saw my video (he said he did watch my video) but this is a change that a lot of people would come up with, not me specifically. It's something a lot of people would want so that's how this got changed. Some things might be a bit more specific, like that whole mob egg thing I talked about today. By the way, if that was implemented, I think it makes sense to have to weaken the mobs first kind of like you do in Pokemon. I really hope that gets added because I want mob eggs in vanilla. If that was to get added it would probably be because somebody watched my episode, or a lot of people watched my episode, and tried to convey that idea to to Dinnerbone or somebody else at Mojang, and again that would not be directly because of me, only indirectly. So that's the answer to that."
 			}
 		]
@@ -292,12 +292,12 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Do you want some thumbnails?",
-				"qname":"Queenkinghappy",
+				"qname": "Queenkinghappy",
 				"answer": "This is something I've been wondering about for a while, do you guys think I need thumbnails for my different series? Is it worth the bother do you think it's worth doing? Because so far I haven't been convinced that it is, but maybe I don't know. I'm pretty lazy when it comes to YouTube stuff, like there's a lot of playlists I need to make and stuff, and I just haven't done it, and I never make thumbnails. Do you think I should or not?"
 			},
 			{
 				"question": "Guys stop feeding the troll!!",
-				"qname":"wiseguy0002",
+				"qname": "wiseguy0002",
 				"answer": "Somebody left the troll comments which is what he's referring to. It was quite clearly a troll comment and there's a whole big chain on it, and instead of just down voting it so would you marked as a negative comment, people reply to it over and over and over again. So guys stop feeding the trolls. If it's obviously a stupid comment, just down vote it and it'll get hidden away and I can delete it. If people reply to it, if hundreds of people reply to something, I have to either just let it fly, which makes the comments full of spam, or delete every one of those which takes so long. To go through a hundred comments it probably takes me easily 10-15 minutes, and that's time I could spend making more Let's Plays, so don't feed the trolls."
 			}
 		]
@@ -311,7 +311,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Dear Etho, I don't think I'm the only one wondering this, does your minecraft blaze farm work better than your single-player world? Also, I think you should start giving a download link to just your good creations. By that I mean using MCEdit to make a Schematic, so we can just import it into our worlds. I would love to have your MindCrack blaze farm in my world. Thanks.",
-				"qname":"Nick Lumz",
+				"qname": "Nick Lumz",
 				"answer": "It does not, my single-player one is at least twice as quick. I would say that just because a lot of them on MindCrack die in the water. I wanted to use water for the fun of it, and it had a negative effect too, but the other option was to set up a whole ton of Pistons which is extremely laggy. So there's problems with both methods, but my single player one is quicker. [Part 2 of the question] Well you know you can copy stuff, and I think Sri has provided the download before, but really to have fun in this game even if you're taking or almost copying someone's design, if you just add a little bit of your own touch you'll have a lot more fun. Like don't do an exact copy, try to make it your own somehow and you'll probably enjoy it a lot more. It's just my recommendation so I'm not gonna be doing that."
 			}
 		]
@@ -325,7 +325,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Hey Etho, in one of your first LP videos, you mentioned having trouble speaking and you figured making an LP would help you solve this problem. How do you think it's going? Personally I rarely notice and when you do it doesn't bother me. Keep up with the awesome videos man",
-				"qname":"StephanBurgwal",
+				"qname": "StephanBurgwal",
 				"answer": "Yeah, you know what it is? see I'm kind of doing it right now, I kind of get stuck with my words. I can pretty clearly and fluently and precisely put my thoughts into text; if I'm writing something I can very clearly express myself, but when it comes to speaking I have trouble converting my thoughts in my brain into words that roll off my tongue like... butter? If I was writing I could have thought of something really clever there, I'm sure. Anyway, you know what I'm saying. In my LP you don't really notice it because I have the ability to edit and I tend to cut bits out. If I really mess up I'll cut it out or I'll even rerecord something if it's really bad, which does happen. In fact just reading the comments I messed up so I restarted. Usually it happens within the first 5-10 seconds though, if I'm going to mess up. There's definitely a difference; if you watch my first LP episodes and compare them to now, there's a lot more power and confidence in my voice which is sort of a skill I've been learning. It's a really important skill to learn too. I know I notice with a lot of new LPers they seem very uncomfortable, I was one of them, and they tend to talk like this and they don't really put any feeling into their words and no power. You lose your audience if you talk like that, you gotta speak with feeling, with power! Anyway, I'm improving but it's a slow and steady thing, I think."
 			}
 		]
@@ -339,7 +339,7 @@ var lplist = {
 		"cotd": [
 			{
 				"question": "Dear Etho, lately I've noticed that you clip away very much of the things you upload. I would like you to not clip away as much as you do, some things does not hurt to watch, like when you farm in an uncharted territory! But when you dug as much as you did in the MincCrack episodes, it got boring. I really like your videos, keep up the good work!!",
-				"qname":"ErenBrusmisbruk",
+				"qname": "ErenBrusmisbruk",
 				"answer": "Thank you. The whole clipping thing is one of the ways I help or one of the ways I tried to make my LP unique from other LPS, at least at the time. Now you might see it more often, but when I first started people pretty much uploaded a straight 15 to 20 minutes period of them playing and I was doing clipping and stuff. It's a really hard balance to find, I find, and I know sometimes there's stuff I should include but I just totally skip because I don't feel like putting on my headphonesm, making sure everything around me is soundproof so it won't interfere with my recording etc. So there's some laziness involved with that. Specifically with uncharted territories when I'm farming in it, I've been doing montages of that. I do watch a lot of other people play CTM maps, and the thing I notice is that they either include ALL of the farming or people just cut it out completely and just get past it, so I think I have a good balance with that. With the Minecraft episodes of me digging, I've actually only shown like one or two percent of me digging that hole, out of the actual time involved. That's all I'm doing lately on the MindCrack server, just digging that hole. I could either try to make an episode out of it or just skip it completely. I've been trying to do fun stuff on the server as I do that and I think it's been working out okay to sort of buy me some time. It is about done but yeah, I think my MindCrack episode coming out after this for the day after or whatever. I'm still working on getting the right balance with the clip being in it, it's probably something I'll never totally master."
 			}
 		]
@@ -349,42 +349,94 @@ var lplist = {
 		"videoText": "30:37\nNOW PLAYING\nEtho Plays Minecraft - Episode 223: Pig Riding\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "223",
-		"title": "Pig Riding"
+		"title": "Pig Riding",
+		"cotd": [
+			{
+				"question": "Hey Etho, I was wondering if you could show us your other worlds on your Minecraft account. They must be pretty interesting considering you probably went by your own judgement rather than ours because you don't do LPs on those worlds. Alright well I hope you see this and have a great day!! ",
+				"qname": "hgxny",
+				"answer": "Thank you very much. There aren't really any worlds, I pretty much only play on my let's play world here. I play on MindCrack and I play CTM maps and such too. Right now I'm doing uncharted territories - I just started that. I have some creative worlds which are really disorganized and messy. oh yeah and I also have three older let's play worlds, three major ones before this one, two of those I did before I started doing episodes back in alpha days. I've been tempted to look at those again since it's been so long. Regarding using my own judgement instead of yours: I pretty much do go by my own my own judgment. Sometimes I ask for other people's views on what I'm building, but I do always make the final decision. I make sure I'm happy with it, I don't do something just because people tell me that's what I should do. This also applies to the projects I choose to do and and what sort of designs, I do that 100% on my own so I do feel like this is my world; I'm doing it the way I want it and I'm happy with it."
+			}
+		]
 	},
 	"224": {
 		"url": "https://www.youtube.com/watch?v=sNB0lCafkvY",
 		"videoText": "31:20\nNOW PLAYING\nEtho Plays Minecraft - Episode 224: Minecart Madness\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "224",
-		"title": "Minecart Madness"
+		"title": "Minecart Madness",
+		"cotd": [
+			{
+				"question": "Etho, what is your upload schedule? It would be very helpful to know as knowing it would help me stop wasting time checking for new videos. Please respond!! ",
+				"qname": "Chae159",
+				"answer": "Well do you guys know? Do you guys know what my upload schedule is? I don't have one! That's right, I don't have an upload schedule. I've thought about it before, setting in stone exactly what I'm gonna upload and when I'm gonna upload it, but the problem with doing that is if I missed an episode or if I start falling behind (which happens quite a lot actually) people would freak out. They would get mad at me and I don't want that; I don't want people thinking they deserve an episode or that I have to make an episode. I make an episode if I can. I try to please people, but sometimes I fall behind, so it's not something I want to do. You might notice patterns though with my videos, for example my Let's Plays I try to upload every two, three or four days apart. It all depends on how much free time I have to make them though because they are the most time consuming thing I upload on my channel. I put the most effort into them which is why people tend to prefer them out of all my videos. With the CTM map I'm playing right now, as long as I can keep up, I release that every second day at 6 p.m. Eastern Eastern Standard Time. My let's play episodes I usually upload in the morning, actually most of my videos I upload in the morning except for the CTM map. If you're having trouble or if you don't want to keep checking my channel I also have my Twitter account linked to my YouTube channel and it will post a message automatically whenever I upload a video, so that's another way you can keep in touch."
+			}
+		]
 	},
 	"225": {
 		"url": "https://www.youtube.com/watch?v=xJ_mgw5D9gM",
 		"videoText": "27:34\nNOW PLAYING\nEtho Plays Minecraft - Episode 225: Ender Reno\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "225",
-		"title": "Ender Reno"
+		"title": "Ender Reno",
+		"cotd": [
+			{
+				"question": "You know, I've never once heard Etho ask to like his video or sub after doing an episode. He's the only youtuber I know that doesn't. ",
+				"qname": "NealAites",
+				"answer": "Oh I could go on a veeeeery long rant about this topic. Well first of all: why I don't do it- it always annoyed me on YouTube when people ask for likes. The more attention someone gives to asking for them, the more it annoys me. I understand why people do it, it helps out their videos. In particular, when I first started on YouTube there was a certain minecrafter I started watching, and I was just getting into his videos, starting to get hooked, but he was doing this thing where he would spend five to ten minutes, basically a whole video, asking people or even begging people to like his video trying to get as many likes as he could on it. It's a \"we're doing this together\", \"we're gonna be a big happy group\" type of thing. Really it's a selfish action asking for likes. I could talk for hours about this. Liking a video helps out a youtuber plain and simple. The more likes on a video, the more attention it gets in the recommendations list, so asking for likes would help me out but it's kind of a pet peeve of mine to a degree. I have been tempted to ask for them, I'm not gonna lie, and who knows, maybe one day I will. In fact, when you've become a YouTube partner one of the things that it suggests for success is that you ask people to like your videos, but the whole concept is kind of stupid in my opinion because if everybody asked to like their videos it would change nothing. Every video would get the same number of likes extra and it would get no extra promotion over another video, because they would all get more likes. In a way, I'm helping them abuse a system by not asking for likes, because my video doesn't get the extra attention so it doesn't get the extra likes and the extra focus in the search engines or the recommendation list or whatever. Anyway, it's a pet peeve of mine that's why I don't do it, but who knows maybe one day I will because it does help."
+			}
+		]
 	},
 	"226": {
 		"url": "https://www.youtube.com/watch?v=LokPA3JwAg0",
 		"videoText": "28:05\nNOW PLAYING\nEtho Plays Minecraft - Episode 226: Ender EATS\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "226",
-		"title": "Ender EATS"
+		"title": "Ender EATS",
+		"cotd": [
+			{
+				"question": "Hey Etho I was wondering regarding the new 1.4 anvils, are you going to make a special room dedicated to all the things you can do with anvils? Or will you hide them in random places like you did with your work benches? I personally think you should make a room and whenever an anvil was destroyed because of over use, you could make a piston belt that replaces it or something. I just thought that would be a really cool addition to your world and it will give you something to do with your redstone. ",
+				"qname": "ScrimShaw92 ",
+				"answer": "Yeah you know what, I'll probably have a few anvils around the world. Some of them might just be on their own, but I might also make anvil dispensers at some point too. I haven't really used anvils yet because I think they're still working on them quite a bit, so maybe when 1.4 comes out I'll use them more."
+			},
+			{
+				"question": "It bugs me soooooooo much that the beacon is off-center. ",
+				"qname": "ACFilmsPlays",
+				"answer": "It bugs me soooooooo much when people say that because I've said many times that I need three more beacons and then they will be centered perfectly fine. Just wait, I'll get three more. They'll be centered. They'll look fine. Okay?"
+			}
+		]
 	},
 	"227": {
 		"url": "https://www.youtube.com/watch?v=OzWKVbIfFDI",
 		"videoText": "26:38\nNOW PLAYING\nEtho Plays Minecraft - Episode 227: Lag Monsters\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "227",
-		"title": "Lag Monsters"
+		"title": "Lag Monsters",
+		"cotd": [
+			{
+				"question": "Mind if I use the E.A.T.S Road on my server? If so, thanks! ",
+				"qname": "MaloHunterfury",
+				"answer": "If you can get it to work, go for it, have fun with it. E.A.T.S road has always had a bad history with working on servers, but now that single-player and multiplayer are pretty much the same it actually might work. I haven't tried it yet, but it might, so go nuts, as with anything else on my channel. One of my original goals, and still my goal with my YouTube channel, was to create cool things in Minecraft that people will have fun making themselves, so if I make something feel free to make it yourself, that's what I'm trying to do keep Minecraft fun for myself and for other people as well."
+			},
+			{
+				"question": "Hey Etho, You spend a lot of time playing Minecraft (as do we all!), I was wondering how you used to fill your time in the days before Minecraft? ",
+				"qname": "tashage",
+				"answer": "I do like playing video games so one of the things I would do is play video games. I'm a little strange with the way I play video games or which games I choose to play. A lot of people they'll play new games; they'll keep their eye out for new games and they'll pick one they like. I do that too but to a lesser extent, I usually just play older games. I have a list of games that are among my favorites that I keep playing over and over throughout the years. I might go a few years since I last played one of my favorite games and I'll play it again type thing, that's that's how I choose my games. More recently FTL has been added to that list, terraria it's another one on that list which I try to play every now and then in my spare time. Another big thing is programming, I used to spend about an hour a day programming just for the fun of it. I was big into programming with XNA before minecraft, and I was getting to the point where I was making some pretty complicated and cool stuff. XNA is mostly used for video game programming by the way."
+			}
+		]
 	},
 	"228": {
 		"url": "https://www.youtube.com/watch?v=VCVRdup3gaY",
 		"videoText": "41:53\nNOW PLAYING\nEtho Plays Minecraft - Episode 228: 400k Subs\nEthosLab",
 		"series": "LP",
 		"seriesNumber": "228",
-		"title": "400k Subs"
+		"title": "400k Subs",
+		"cotd": [
+			{
+				"question": "I know everyone says this Etho, but I love your videos! Keep up the hard work, we all appreciate it! :) ",
+				"qname": "qwertyazertyuiopfr",
+				"answer": "Thank you very much for the nice comment, and thank you everybody for your support and your nice comments too, you make this fun for me."
+			}
+		]
 	},
 	"229": {
 		"url": "https://www.youtube.com/watch?v=VQXHXLqLens",

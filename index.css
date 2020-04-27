@@ -32,7 +32,6 @@ h2{
   left:-1vw;
 }
 h1{
-  height: 2vw;
   text-align: center;
   font-size: 2.8vw;
   color: black;
@@ -174,6 +173,13 @@ img{
 .searchResult:hover{
   background: rgba(102, 65, 17, 0.5);
 }
+.bolden{
+	font-weight: bold;
+}
+.underline{
+	text-decoration: underline;
+	font-size: 1.6vw;
+}
 .page {
   color: white;
   width: 30vw;
@@ -290,7 +296,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 2em 0;
-  line-height:3vw;
+  line-height:2.2vw;
   margin:0px;
 }
 .page {

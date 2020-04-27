@@ -33,10 +33,10 @@ Object.keys(lplist).forEach((key)=>{
     pgA.classList.add("page")
     txtQ = document.createElement("P")
     txtA = document.createElement("P")
-    txtQ.innerHTML = `Episode ${lplist[key].seriesNumber}: ${lplist[key].title} <br><br>`
+    txtQ.innerHTML = `<div class="bolden underline">Episode ${lplist[key].seriesNumber}: ${lplist[key].title} </div><br><br>`
     lplist[key].cotd.forEach((entry, j)=>{
-      txtQ.innerHTML = txtQ.innerHTML.concat(`Question ${j+1}: <br> ${entry.question} <br> -${entry.qname} <br><br>`)
-      txtA.innerHTML = txtA.innerHTML.concat(`Answer ${j+1}: <br> ${entry.answer} <br><br>`)
+      txtQ.innerHTML = txtQ.innerHTML.concat(`<div class="bolden">Question ${j+1}:</div> <br> ${entry.question} <br> -${entry.qname} <br><br>`)
+      txtA.innerHTML = txtA.innerHTML.concat(`<div class="bolden">Answer ${j+1}:</div> <br> ${entry.answer} <br><br>`)
     })
     pgQ.appendChild(txtQ)
     pgA.appendChild(txtA)
@@ -65,6 +65,9 @@ for(var i = 0; i < pages.length; i++){
 
 
 document.addEventListener('DOMContentLoaded', function(){
+		if(!window.chrome){
+			document.getElementById("oInfo").innerHTML = document.getElementById("oInfo").innerHTML.concat("<br><br><div style=\"font-weight:bold; background-color: yellow; text-align: center;\">IMPORTANT: This website only works properly on chrome-based web browsers! (sorry)</div>")
+		}
     for(var i = 0; i < pages.length; i++)
       {
         pages[i].pageNum = i + 1;
@@ -89,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function(){
               }
             }else if(e.target.nodeName == "INPUT"){
             }else if(e.target.nodeName = "BUTTON"){
-              if(parseInt(e.target.id)>222){
+              if(parseInt(e.target.id)>228){
 		      alert("That episode hasn't been transcribed yet, sorry :(")
 	      }else{
 		for(i=0; i<(parseInt(e.target.id)-204)*2+4; i++){
